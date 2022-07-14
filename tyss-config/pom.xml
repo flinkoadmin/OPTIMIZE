@@ -3,12 +3,12 @@
     <parent>
         <artifactId>OPTIMIZE</artifactId>
         <groupId>com.testyantra.optimize</groupId>
-        <version>1.0</version>
+        <version>1.1-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.testyantra.optimize</groupId>
     <artifactId>tyss-config</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
@@ -55,7 +55,7 @@
         <connection>scm:git:git://github.com/flinkoadmin/OPTIMIZE.git</connection>
         <developerConnection>scm:git:ssh://github.com/flinkoadmin/OPTIMIZE.git</developerConnection>
         <url>http://github.com/flinkoadmin/OPTIMIZE/tree/main</url>
-      <tag>1.0-SNAPSHOT</tag>
+      <tag>@v{project.version}</tag>
      </scm>
 
 
@@ -71,7 +71,7 @@
     <dependency>
         <groupId>com.testyantra.optimize</groupId>
         <artifactId>tyss-common</artifactId>
-        <version>1.0</version>
+        <version>1.1-SNAPSHOT</version>
         <scope>compile</scope>
     </dependency>
         <dependency>
