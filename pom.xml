@@ -52,11 +52,12 @@
   
   
       <scm>
-        <connection>scm:git:git://github.com/flinkoadmin/OPTIMIZE.git</connection>
-        <developerConnection>scm:git:ssh://github.com/flinkoadmin/OPTIMIZE.git</developerConnection>
+        <connection>scm:git:https://flinkoadmin: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@github.com/flinkoadmin/OPTIMIZE.git</connection>
+        <developerConnection>scm:git:https://flinkoadmin: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@github.com/flinkoadmin/OPTIMIZE.git</developerConnection>
         <url>http://github.com/flinkoadmin/OPTIMIZE/tree/main</url>
       <tag>@v{project.version}</tag>
       </scm>
+
 
     <parent>
         <!-- Import dependency management from Spring Boot -->
