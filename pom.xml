@@ -52,8 +52,8 @@
   
   
       <scm>
-        <connection>scm:git:https://flinkoadmin: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@github.com/flinkoadmin/OPTIMIZE.git</connection>
-        <developerConnection>scm:git:https://flinkoadmin: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@github.com/flinkoadmin/OPTIMIZE.git</developerConnection>
+        <connection>scm:git:https://flinkoadmin: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@github.com/flinkoadmin/OPTIMIZE.git</connection>
+        <developerConnection>scm:git:https://flinkoadmin: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@github.com/flinkoadmin/OPTIMIZE.git</developerConnection>
         <url>http://github.com/flinkoadmin/OPTIMIZE/tree/main</url>
       <tag>@v{project.version}</tag>
       </scm>
