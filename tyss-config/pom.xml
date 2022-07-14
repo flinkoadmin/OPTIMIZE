@@ -3,12 +3,12 @@
     <parent>
         <artifactId>OPTIMIZE</artifactId>
         <groupId>com.testyantra.optimize</groupId>
-        <version>1.1-SNAPSHOT</version>
+        <version>1.1</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.testyantra.optimize</groupId>
     <artifactId>tyss-config</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
@@ -71,7 +71,7 @@
     <dependency>
         <groupId>com.testyantra.optimize</groupId>
         <artifactId>tyss-common</artifactId>
-        <version>1.1-SNAPSHOT</version>
+        <version>1.1</version>
         <scope>compile</scope>
     </dependency>
         <dependency>
