@@ -1,0 +1,8 @@
+com\tyss\optimize\config\auth\CustomPermissionEvaluator.class
+com\tyss\optimize\config\auth\JwtConverter.class
+com\tyss\optimize\config\auth\PasswordEncoderConfig.class
+com\tyss\optimize\config\MongoConfig.class
+com\tyss\optimize\config\SpringBeans.class
+com\tyss\optimize\config\ReqHeader.class
+com\tyss\optimize\config\auth\MethodSecurityConfig.class
+com\tyss\optimize\config\WebConfig.class
