@@ -12,7 +12,7 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
         <java.version>11</java.version>
-        <spring-boot.version>2.2.6.RELEASE</spring-boot.version>
+       <spring-boot.version>2.2.6.RELEASE</spring-boot.version>
 
     </properties>
 <distributionManagement>
@@ -52,8 +52,8 @@
   
   
       <scm>
-        <connection>scm:git:https://flinkoadmin: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@github.com/flinkoadmin/OPTIMIZE.git</connection>
-        <developerConnection>scm:git:https://flinkoadmin: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@github.com/flinkoadmin/OPTIMIZE.git</developerConnection>
+        <connection>scm:git:https://github.com/flinkoadmin/OPTIMIZE.git</connection>
+        <developerConnection>scm:git:https://github.com/flinkoadmin/OPTIMIZE.git</developerConnection>
         <url>http://github.com/flinkoadmin/OPTIMIZE/tree/main</url>
       <tag>@v{project.version}</tag>
       </scm>
