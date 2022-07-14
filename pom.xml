@@ -55,7 +55,7 @@
         <connection>scm:git:https://github.com/flinkoadmin/OPTIMIZE.git</connection>
         <developerConnection>scm:git:https://github.com/flinkoadmin/OPTIMIZE.git</developerConnection>
         <url>scm:git:https://github.com/flinkoadmin/OPTIMIZE.git</url>
-      <tag>@v{project.version}</tag>
+      <tag>${project.version}</tag>
       </scm>
 
 
@@ -170,7 +170,7 @@
      <artifactId>maven-release-plugin</artifactId>
      <version>2.5.3</version>
      <configuration>
-     <tagNameFormat>@v{project.version}</tagNameFormat>
+     <tagNameFormat>${project.version}</tagNameFormat>
      <checkModificationExcludes>
      <checkModificationExclude>pom.xml</checkModificationExclude>
      </checkModificationExcludes>
